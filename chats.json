@@ -1,0 +1,38 @@
+{
+    "Chomsky": {
+        "age": 10,
+        "espece": "chat",
+        "couleur": "noir",
+        "femelle": true
+    },
+    "Edgar": {
+        "age": 6,
+        "espece": "chat",
+        "couleur": "blanc et noir",
+        "femelle": false
+    },
+    "Joséphine": {
+        "age": 9,
+        "espece": "lapin",
+        "couleur": "blanc",
+        "femelle": true
+    },
+    "Salem": {
+        "age": 5,
+        "espece": "chat",
+        "couleur": "noir",
+        "femelle": true
+    },
+    "Simone": {
+        "age": null,
+        "espece": "chat",
+        "couleur": "crème",
+        "femelle": true
+    },
+    "Roxy": {
+        "age": 1,
+        "espece": "chien",
+        "couleur": "roux",
+        "femelle": true
+    }
+}
