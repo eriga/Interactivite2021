@@ -1,2 +1,4 @@
 # Programmation interactive client-serveur
-### Le dépôt du cours
+### Cette branche contient le code pour l'exercice sur Fetch
+
+Vous pouvez enlever le "setTimeout()" qui entoure le "fetch" pour éviter le délai avant la requête.
