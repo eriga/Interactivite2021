@@ -1,21 +1,5 @@
-// L'URL à utiliser pour la requête
+// L'URL à utiliser pour la requête POST
 const url = "http://127.0.0.1:8000/api/heroes";
-
-// On spécifie les options pour le fetch
-// let options = {
-//     mode: 'cors'
-// }
-
-// Requête
-// fetch(url, options).then(data => {
-//     console.log(data);
-//     return data.json();
-// }).then(json => {
-//     let contenu = JSON.stringify(json, null, ' ');
-
-//     document.body.innerHTML += `<pre>${contenu}</pre>`;
-// })
-
 
 // Interception de la soumission du formulaire
 document.forms.formHeros.addEventListener('submit', event => {
@@ -24,6 +8,10 @@ document.forms.formHeros.addEventListener('submit', event => {
     //console.log('soumission interceptée!');
     //console.log(document.forms.formHeros.soumettre.value);
 
+    /* Les informations du formulaire sont récupérées et envoyées dans la requête, 
+     * mais elles ne serviront pas réellement dans l'API puisque les informations
+     * y sont générées automatiquement (prenom, nom, age)
+     */
     let data = document.forms.formHeros;
     let options = {
         method: 'POST',
@@ -31,10 +19,11 @@ document.forms.formHeros.addEventListener('submit', event => {
         body: data
     }
 
-    // On fait la requête
+    // On fait la requête en utilisant l'URL et les options
     fetch(url, options).then(reponse => {
+        // La réponse retournée par l'API (Laravel) devrait être quelque chose comme [success: 'success']
         return reponse.json();
-    }).then(json => {
+    }).then(json => {        
         console.log(json);
     });
 });
