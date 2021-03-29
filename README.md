@@ -6,3 +6,4 @@ Cette branche contient le code pour:
   - Pour utiliser le projet Laravel, il faut exécuter "composer install" dans le terminal pour regénérer les modules (absents) et utiliser le fichier .env.example pour recréer le fichier .env (absent)
 - L'exemple fait en cours sur Validator
 - L'énoncé pour l'exercice en devoir
+- Le corrigé du devoir est disponible dans le dossier /devoir
