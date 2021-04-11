@@ -1,7 +1,7 @@
 /**
  * 
  * @example
- * http_get('http://messengerapi.localhost/api/messages').then(data => {
+ * http_get('http://localhost:8000/api/messages').then(data => {
  * 
  * })
  */
@@ -24,8 +24,8 @@ export function http_get(url) {
  * 
  * @example
  * http_post('http://.../api/messages/new', {
- *   username: 'Julien',
- *   message: 'Un texte',
+ *   username: 'un nom',
+ *   message: 'un message',
  * }).then(data => {
  * 
  * })
