@@ -16,3 +16,5 @@
 > Contient le projet frontend Vue.JS de la fin du cours pour la messagerie
 - Cours-6-messenger
 > Contient le frontend et l'API final* du projet Messenger
+- Cours-6.5-messenger-optionnel
+> Contient les ajouts au frontend du projet Messenger de la vidéo optionnelle
