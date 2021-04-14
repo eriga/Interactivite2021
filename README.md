@@ -14,7 +14,15 @@
 > Le corrigé du devoir est disponible dans le dossier /devoir
 - Cours-4-messenger-partie1
 > Contient le projet frontend Vue.JS de la fin du cours pour la messagerie
+- PAS DE BRANCHE POUR LE COURS 5
+> Le code de l'API réalisé au cours 5 se trouve dans la branche "Cours-6-messenger"
 - Cours-6-messenger
 > Contient le frontend et l'API final* du projet Messenger
 - Cours-6.5-messenger-optionnel
-> Contient les ajouts au frontend du projet Messenger de la vidéo optionnelle
+> Contient les ajouts au frontend du projet Messenger réalisés dans la vidéo optionnelle
+- PAS DE BRANCHE POUR LE COURS 7
+> Rien
+- PAS DE BRANCHE POUR LE COURS 8
+> Rien
+- Cours-9-swapi
+> Code de départ et code final pour le projet "SWAPI"
