@@ -25,4 +25,4 @@
 - PAS DE BRANCHE POUR LE COURS 8
 > Rien
 - Cours-9-swapi
-> Code de départ et code final pour le projet "SWAPI"
+> Contient le code de départ et le code final pour le projet "SWAPI"
