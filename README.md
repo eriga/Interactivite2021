@@ -1,21 +1,10 @@
 # Programmation interactive client-serveur
-### Le dépôt du cours Programmation interactive client-serveur
-#### Les branches disponibles sur le dépôt correspondent généralement à chaque cours du module
----
+### La branche du cours 10
 
-| Branches      | Description   |
-| ------------- |-------------|
-| Cours-1       | - Contient un exercice sur GIT (jamais fait en cours) |
-| Cours-1-fetch | - Exercice simple sur Fetch |
-| Cours-2-exercice-cors | - Exercice sur la communication entre Javascript et PHP (Laravel) en utilisant le mode CORS |
-| Cours-3 | - Le retour sur l'étape DÉFI de l'exercice du cours 2
-| | - L'exemple fait en cours sur Validator |
-| | - L'énoncé pour l'exercice en devoir |
-| | - Le corrigé du devoir est disponible dans le dossier /devoir |
-| Cours-4-messenger-partie1 | - Contient le projet frontend Vue.JS de la fin du cours pour la messagerie |
-| PAS DE BRANCHE POUR LE COURS 5 | |
-| Cours-6-messenger | - Contient le frontend et l'API final* du projet Messenger |
-| Cours-6.5-messenger-optionnel* | - Contient les ajouts au frontend du projet Messenger réalisés dans la vidéo optionnelle |
-| PAS DE BRANCHE POUR LE COURS 7 | |
-| PAS DE BRANCHE POUR LE COURS 8 | |
-| Cours-9-swapi | Contient le code final du projet "SWAPI" |
+Cette branche contient le code pour:
+- Le projet Youtube final dans `/youtube-final`
+
+La documentation de l'API de Youtube est [disponible ici](https://developers.google.com/youtube/v3/getting-started).
+
+Pour compléter ce projet, il est nécessaire **d'avoir un compte Google** et d'utiliser la [Google developer console](https://www.google.com/search?q=google+developer+console&oq=google+de&aqs=chrome.0.69i59j69i57j69i59j0i433l2j69i60l3.2272j0j4&sourceid=chrome&ie=UTF-8).
+- Le compte Google et la console Google vous permettent d'obtenir une clé d'API nécessaire pour le projet.
