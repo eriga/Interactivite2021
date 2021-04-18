@@ -18,4 +18,5 @@
 | Cours-6.5-messenger-optionnel* | - Contient les ajouts au frontend du projet Messenger réalisés dans la vidéo optionnelle |
 | PAS DE BRANCHE POUR LE COURS 7 | |
 | PAS DE BRANCHE POUR LE COURS 8 | |
-| Cours-9-swapi | Contient le code final du projet "SWAPI" |
+| Cours-9-swapi | Contient le code initial et final du projet "SWAPI" |
+| Cours-10-youtube | Contient le code final du projet Youtube |
