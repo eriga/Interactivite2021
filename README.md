@@ -21,4 +21,4 @@
 | Cours-9-swapi | Contient le code initial et final du projet "SWAPI" |
 | Cours-10-youtube | Contient le code final du projet Youtube |
 | PAS DE BRANCHE POUR LE COURS 11 | |
-| Cours-12-reddit | Contient le code final du projet Reddit (deux versions: NPM et JS) |
+| Cours-12-reddit | Contient le code final du projet Reddit (deux versions: Vue et JS) |
