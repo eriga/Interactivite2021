@@ -23,5 +23,5 @@
 | PAS DE BRANCHE POUR LE COURS 11 | |
 | Cours-12-reddit | Contient le code final du projet Reddit (deux versions: Vue et JS) |
 | PAS DE BRANCHE POUR LE COURS 13 | |
-| **Cours-14-tp2** | **Contient l'énoncé du TP2 et du code référence** |
+| **Cours-14-TP2** | **Contient l'énoncé du TP2 et du code référence** |
 | Cours-15-gdrive | Contient le code final du projet Google Drive |
