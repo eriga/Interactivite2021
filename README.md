@@ -1,27 +1,17 @@
 # Programmation interactive client-serveur
-### Le dépôt du cours Programmation interactive client-serveur
-#### Les branches disponibles sur le dépôt correspondent généralement à chaque cours du module
----
+### La branche du cours 14 TP2
 
-| Branches      | Description   |
-| ------------- |-------------|
-| Cours-1       | - Contient un exercice sur GIT (jamais fait en cours) |
-| Cours-1-fetch | - Exercice simple sur Fetch |
-| Cours-2-exercice-cors | - Exercice sur la communication entre Javascript et PHP (Laravel) en utilisant le mode CORS |
-| Cours-3 | - Le retour sur l'étape DÉFI de l'exercice du cours 2
-| | - L'exemple fait en cours sur Validator |
-| | - L'énoncé pour l'exercice en devoir |
-| | - Le corrigé du devoir est disponible dans le dossier /devoir |
-| Cours-4-messenger-partie1 | - Contient le projet frontend Vue.JS de la fin du cours pour la messagerie |
-| PAS DE BRANCHE POUR LE COURS 5 | |
-| Cours-6-messenger | - Contient le frontend et l'API final* du projet Messenger |
-| Cours-6.5-messenger-optionnel* | - Contient les ajouts au frontend du projet Messenger réalisés dans la vidéo optionnelle |
-| PAS DE BRANCHE POUR LE COURS 7 | |
-| PAS DE BRANCHE POUR LE COURS 8 | |
-| Cours-9-swapi | Contient le code initial et final du projet "SWAPI" |
-| Cours-10-youtube | Contient le code final du projet Youtube |
-| PAS DE BRANCHE POUR LE COURS 11 | |
-| Cours-12-reddit | Contient le code final du projet Reddit (deux versions: Vue et JS) |
-| PAS DE BRANCHE POUR LE COURS 13 | |
-| **Cours-14-tp2** | **Contient l'énoncé du TP2 et du code référence** |
-| Cours-15-gdrive | Contient le code final du projet Google Drive |
+Cette branche contient:
+
+1. L'énoncé du TP2 (PDF)
+2. Le dossier `/capture-ecran` qui contient des images du projet final - ces images ne sont qu'à titre de référence: votre projet final pourrait être visuellement tout autre
+3. Le dossier `/promise-all` contient un fichier JS qui fournit des explications sur l'utilisation de `Promise.all()` qui pourrait être utile dans le projet (sans être nécessaire).
+4. Le dossier `/scroll-demo` contient du code référence quant à l'animation d'une liste de miniatures.
+
+### Exigences générales du TP2
+- 25% de la note finale
+- À faire en équipe de 2 ou 3
+- Échéance: 30 mai avant 23h59
+- Vous devez utiliser un dépôt Github qui sera utilisé pour le projet et pour la remise
+- Vous devez m'ajouter à votre projet Github; c'est comme ça que je ferai la correction. Ajoutez-moi tôt dans le projet pour que je puisse vous aider si nécessaire. Mon nom d'utilisateur: **eriga**.
+- Il n'y aura donc pas de prise en main dans Teams et les notes seront disponibles sur LÉA.
