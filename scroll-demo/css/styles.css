@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.thumbnails {
+    width: 100%;
+    overflow: hidden;
+}
+
+.scroll-container {
+    width: 10000px;
+    transform: translateX(0px); /* Propriété à animer par JS */
+}
+
+.scroll-container img {
+    box-sizing: border-box;
+    height: 100px;
+    padding: 5px;
+    float: left;
+}
+
+
+/* =================================================
+ * Suite pour l'exemple d'animation seulement
+ * ====================================
+ * 
+ * L'animation est uniquement pour illustrer le résultat
+ * de la modification du transform. En pratique, il vous
+ * faudra définir la valeur du translate à l'aide de Javascript
+ * en fonction des interactions de l'utilisateur
+ * 
+ */
+
+.scroll-container {
+    animation: scroll 1s linear infinite;
+}
+
+@keyframes scroll {
+    0%   { transform: translateX(0px); }
+    100% { transform: translateX(-100px); }
+}
