@@ -4,9 +4,10 @@
 Cette branche contient:
 
 1. L'énoncé du TP2 (PDF)
-2. Le dossier `/capture-ecran` qui contient des images du projet final - ces images ne sont qu'à titre de référence: votre projet final pourrait être visuellement tout autre
-3. Le dossier `/promise-all` contient un fichier JS qui fournit des explications sur l'utilisation de `Promise.all()` qui pourrait être utile dans le projet (sans être nécessaire).
-4. Le dossier `/scroll-demo` contient du code référence quant à l'animation d'une liste de miniatures.
+2. Le fichier **shuffle.js** qui servira pour le traval.
+3. Le dossier `/capture-ecran` qui contient des images du projet final - ces images ne sont qu'à titre de référence: votre projet final pourrait être visuellement tout autre
+4. Le dossier `/promise-all` contient un fichier JS qui fournit des explications sur l'utilisation de `Promise.all()` qui pourrait être utile dans le projet (sans être nécessaire).
+5. Le dossier `/scroll-demo` contient du code référence quant à l'animation d'une liste de miniatures.
 
 ### Exigences générales du TP2
 - 25% de la note finale
