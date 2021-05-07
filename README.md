@@ -25,3 +25,4 @@
 | PAS DE BRANCHE POUR LE COURS 13 | |
 | [**Cours-14-TP2**](https://github.com/eriga/Interactivite2021/tree/cours-14-TP2) | **Contient l'énoncé du TP2 et du code référence** |
 | [Cours-15-gdrive](https://github.com/eriga/Interactivite2021/tree/cours-15-gdrive) | Contient le code final du projet Google Drive |
+| [Cours-16-panier-paypal-partie1](https://github.com/eriga/Interactivite2021/tree/cours-16-panier-paypal-partie1) | Contient le code de départ et final du projet Panier-Paypal |
