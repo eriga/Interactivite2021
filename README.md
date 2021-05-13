@@ -12,7 +12,7 @@ Cette branche contient:
 ### Exigences générales du TP2
 - 25% de la note finale
 - À faire en équipe de 2 ou 3
-- Échéance: 30 mai avant 23h59
+- Échéance: 4 juin avant 23h59
 - Vous devez utiliser un dépôt Github qui sera utilisé pour le projet et pour la remise
 - Vous devez m'ajouter à votre projet Github; c'est comme ça que je ferai la correction. Ajoutez-moi tôt dans le projet pour que je puisse vous aider si nécessaire. Mon nom d'utilisateur: **eriga**.
 - Il n'y aura donc pas de prise en main dans Teams et les notes seront disponibles sur LÉA.
