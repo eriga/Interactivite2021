@@ -1,10 +1,8 @@
 <template>
 <div>
-    <nav class="navbar navbar-light bg-light">
-        <a href="#">Accueil</a>
-        <router-link to="/panier" class="btn btn-primary">
-            Panier ({{ cart.length }})
-        </router-link>
+    <nav class="navbar navbar-dark bg-primary" style="color: white;">
+      <a href="#" style="color: white;">Accueil</a>
+      <router-link to="/panier" style="color: white;" class="btn btn-primary">Panier ({{ cart.length }})</router-link>      
     </nav>
     <div class="container">
         <div class="row">
