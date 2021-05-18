@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>Mes produits d'épicerie</h1>
+                <h1>Accueil</h1>
             </div>
         </div>
         <div class="row">
@@ -38,16 +38,16 @@ export default {
 
 
   mounted() {
-        const url = "http://inter.ericgagne.net/api/panier/products.json";
+        const API_URL = "http://inter.ericgagne.net/api/panier/products.json";
 
-        fetch(url).then(resp => {
+        fetch(API_URL).then(resp => {
             resp.json().then(data => {
                 this.products = data.products
             })
         })
 
-        if (window.localStorage.cart) {
-            this.cart = JSON.parse(window.localStorage.cart)
+        if (localStorage.cart) {
+            this.cart = JSON.parse(localStorage.cart)
         }
     }, // fin MOUNTED
 
@@ -60,7 +60,7 @@ export default {
       },
 
       sauvegarderCart() {
-          window.localStorage.cart = JSON.stringify(this.cart)
+          localStorage.cart = JSON.stringify(this.cart)
       }
 
     }, // fin METHODS
