@@ -1,9 +1,9 @@
 <template>
 <div>
-    <nav class="navbar navbar-light bg-light">
-        <a href="#">Panier</a>
-        <router-link to="/" class="btn btn-primary">Retour vers l'accueil</router-link>
-    </nav>
+    <nav class="navbar navbar-dark bg-primary" style="color: white;">
+      <a href="#" style="color: white;">Panier</a>
+      <router-link to="/" style="color: white;" class="btn btn-primary">Accueil</router-link>      
+    </nav> 
     <div class="container">
         <div class="row">
             <div class="col">
@@ -47,8 +47,8 @@ export default {
   }, // fin DATA
 
   mounted() {
-      if (window.localStorage.cart) {
-          this.cart = JSON.parse(window.localStorage.cart)
+      if (localStorage.cart) {
+          this.cart = JSON.parse(localStorage.cart)
       }
 
       this.createPaypal();
