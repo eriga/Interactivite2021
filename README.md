@@ -27,4 +27,7 @@
 | [Cours-15-gdrive](https://github.com/eriga/Interactivite2021/tree/cours-15-gdrive) | Contient le code final du projet Google Drive |
 | [Cours-16-panier-paypal-partie1](https://github.com/eriga/Interactivite2021/tree/cours-16-panier-paypal-partie1) | Contient le code de départ et final du projet Panier-Paypal |
 | [Cours-17-panier-paypal-partie2](https://github.com/eriga/Interactivite2021/tree/cours-17-panier-paypal-partie2) | Contient le code final de la 2e partie du projet Panier-Paypal |
+| PAS DE BRANCHE POUR LE COURS 18 | |
+| [Cours-19-websocket](https://github.com/eriga/Interactivite2021/tree/Cours-19-websocket) | Contient le code final du projet Websocket |
+| [Cours-20-revision](https://github.com/eriga/Interactivite2021/tree/Cours-20-revision) | Contient le code final du projet de révision |
 
