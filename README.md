@@ -30,4 +30,5 @@
 | PAS DE BRANCHE POUR LE COURS 18 | |
 | [Cours-19-websocket](https://github.com/eriga/Interactivite2021/tree/Cours-19-websocket) | Contient le code final du projet Websocket |
 | [Cours-20-revision](https://github.com/eriga/Interactivite2021/tree/Cours-20-revision) | Contient le code final du projet de révision |
+| [Cours-21-websocket-optionnel](https://github.com/eriga/Interactivite2021/tree/cours-21-websocket-optionnel) | Contient le code final du projet optionnel Websocket |
 
