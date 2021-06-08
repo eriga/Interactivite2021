@@ -1,6 +1,5 @@
 # Programmation interactive client-serveur
-### Le dépôt du cours Programmation interactive client-serveur
-#### Les branches disponibles sur le dépôt correspondent généralement à chaque cours du module
----
+### La branche du cours 21
 
-- code de ma version du TP1
+Cette branche contient le code pour:
+- Le code de ma version du TP1
